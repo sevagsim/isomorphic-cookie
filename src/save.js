@@ -15,6 +15,7 @@ const whiteListOpts = [
   'path',
   'secure',
   'httpOnly',
+  'sameSite',
 ];
 
 export const defaultBrowserOpts = {

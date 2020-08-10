@@ -40,7 +40,7 @@
     "transpile": "babel src --out-dir dist --ignore /__tests__/"
   },
   "dependencies": {
-    "cookie": "^0.1.2",
+    "cookie": "0.4.1",
     "lodash.pick": "^4.4.0"
   },
   "devDependencies": {
